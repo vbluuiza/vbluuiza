@@ -3,11 +3,9 @@
 
 💻 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, buscando construir uma base sólida na área de tecnologia. 
 
-🚀 Tenho grande interesse em Desenvolvimento Front-End, com planos futuros de explorar Back-End e Inteligência Artificial.
+🚀 Tenho grande interesse em Desenvolvimento Front-End, com planos futuros de tornar-se FullStac. Também desejo me aprofundar em Inteligência Artificial!
 
 📚 No momento, estou me aprofundando em JavaScript para depois avançar em React.
-
-🎸 No meu tempo livre, gosto de tocar guitarra e jogar video game.
 
 📬 Sinta-se à vontade para entrar em contato pelo e-mail luuiza.empresarial@gmail.com 
 irei sempre tentar responder o mais rápido possível!
