@@ -1,12 +1,11 @@
 ## 👋 Olá! Eu sou VBLUUIZA
 #### 👩‍💻 Sobre Mim <br/>
 
-💻 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas, buscando construir uma base sólida na área de tecnologia. 
+💻 Sou estudante de Análise e Desenvolvimento de Sistemas, com forte interesse em Engenharia de Dados. Tenho direcionado meus estudos para temas como pipelines de dados, cloud computing, bancos de dados, modelagem de dados e processamento de dados em escala.
 
-🚀 Tenho grande interesse em Engenharia de Dados e desejo me aprofundar cada vez mais nessa área!
+Valorizo a prática como forma de aprendizado e estou sempre envolvida em projetos que me desafiem a aplicar e expandir meus conhecimentos.
 
-📬 Sinta-se à vontade para entrar em contato pelo e-mail luuiza.empresarial@gmail.com 
-irei sempre tentar responder o mais rápido possível!
+📬 Fique à vontade para entrar em contato pelo e-mail luuiza.empresarial@gmail.com — responderei o mais breve possível!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vbluuiza/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vbluuiza/)
